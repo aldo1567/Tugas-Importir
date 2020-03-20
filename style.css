@@ -1,0 +1,130 @@
+.content1-bg {
+    background-color: rgb(255, 214, 0);
+}
+
+
+.content1-img {
+
+    width: 500px;
+    height: 300px;
+}
+
+.content1-hr {
+    border-radius: 4px;
+    border: 2px solid blue;
+    width: 50px;
+}
+
+.content1-flag {
+    width: 400px;
+    height: 100px;
+}
+
+.content1-btn {
+    border: 3px solid;
+    font-weight: 700;
+}
+
+
+.content2-btn {
+    width: 80%;
+    border: none;
+    background-color: rgb(255, 214, 0);
+    box-shadow: 1px -6px 38px 11px rgba(186, 186, 186, 1);
+}
+
+@media screen and (min-width: 601px) {
+    .content2-btn {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .content2-btn {
+        font-size: 10px;
+    }
+}
+
+.flag-chain :hover {
+    border: 3px solid blue;
+}
+
+.flag {
+    border: none;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.flag-ml {
+    margin-left: 200px;
+}
+
+.icon-lg {
+    width: 300px;
+    height: 300px;
+}
+
+.media-logo {
+    margin: 15px;
+    padding: 5px;
+    border: 1px solid black;
+    width: 150px;
+    height: 50px;
+}
+
+.content1-hr2 {
+    border-radius: 4px;
+    border: 2px solid #14cdf9;
+    width: 70px;
+}
+
+.font-weight {
+    font-weight: 1000;
+}
+
+.img-saldo {
+    width: 500px;
+    height: 300px;
+}
+
+.content3-btn {
+    color: white;
+    width: 80%;
+    border: none;
+    background-color: #42b99f;
+}
+
+@media screen and (min-width: 601px) {
+    .content3-btn {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .content3-btn {
+        font-size: 10px;
+    }
+}
+
+.text-importir {
+    background-color: #ffd600;
+    border: 2px solid black;
+}
+
+.hr3 {
+    border: 2px solid black;
+}
+
+.content6-img {
+    width: 200px;
+    height: 400px;
+}
+
+.utube {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 8px;
+    box-shadow: 1px 10px 5px -4px rgba(0, 0, 0, 0.75);
+}
